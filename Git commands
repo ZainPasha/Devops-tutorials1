@@ -1,0 +1,3 @@
+Git clone : It will clone repositiry using HTTPS://
+git pull : It will pull changes from remote repo to local 
+git push : it will push changes from local to remote repo
