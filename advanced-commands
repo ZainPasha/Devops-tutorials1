@@ -1,0 +1,5 @@
+CHMOD : This command is used to change permissions or give permisssions
+W : is for Write Access
+R : is for READ Access
+X : is for executable access
+:wq
